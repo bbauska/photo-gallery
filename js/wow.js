@@ -1,3 +1,4 @@
+<!-- js/wow.js in photo-gallery.bauska.org -->
 (function() {
   var Util, WeakMap,
     __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
