@@ -1,4 +1,4 @@
-# 8 Pretty Girl and Bubbies photos &amp; 1 with Puppy with Bubbies
+# 8 Pretty Girl and Bubbies photos and 1 with Puppy &amp; Bubbies
 ## photo-gallery-img-template
 ### https://it-services-web-dev.netlify.com/w3-parallax.html <br> 
 or <br>
